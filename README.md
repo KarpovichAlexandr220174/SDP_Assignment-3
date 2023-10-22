@@ -17,5 +17,6 @@ The DatabaseRunner class serves as the entry point for the program. It creates a
 The AdapterJavaToDatabase class extends JavaApplication and implements the Database interface. It acts as a bridge between the database operations and the methods defined in the Java application class.
 
 How it Works
+
 The AdapterJavaToDatabase class overrides the database methods by invoking the corresponding methods from the JavaApplication class.
 The DatabaseRunner class demonstrates the usage of the adapter by creating an instance of it and calling the database methods.
