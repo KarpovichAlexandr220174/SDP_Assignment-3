@@ -1,5 +1,6 @@
 # SDP_Assignment-3
 Assignment-3.Karpovich-A.D.
+
 Database Adapter for Java Applications
 This project demonstrates the use of the Adapter Pattern to seamlessly integrate a Java application with a simplified database interface. The main components of the project include:
 
